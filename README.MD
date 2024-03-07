@@ -12,4 +12,3 @@
 
 • Publique o projeto na Vercel;
 
-• Enviar o link através da plataforma da EBAC;
